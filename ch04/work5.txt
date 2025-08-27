@@ -3,4 +3,8 @@
 
 #section2
 content 2 by feature
+<<<<<<< HEAD
 
+=======
+content 2 by terms
+>>>>>>> terms
